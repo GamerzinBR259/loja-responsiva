@@ -1,0 +1,48 @@
+img{
+    width: 100%;
+    height: auto;
+}
+
+.conteiner{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(23, 231, 110);
+    margin: 10px;
+    padding: 10px;
+}
+
+.inicio{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(38, 66, 226);
+    width: 100%;
+}
+
+.box {width: 100%;}
+
+@media screen and (min-width:500px) {
+.c1{width: 50%;}
+
+.c2{width: 50%;}
+
+.c3{width: 50%;}
+
+.c4{width: 50%;}
+
+.c5{width: 50%;}
+
+.c6{width: 50%;}
+
+.c7{width: 50%;}
+
+.c8{width: 50%;}
+
+.c9{width: 50%;}
+
+.c10{width: 50%;}
+
+.c11{width: 50%;}
+
+.c12{width: 50%;}
+    
+}
